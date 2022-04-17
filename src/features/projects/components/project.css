@@ -1,0 +1,7 @@
+@media  (min-width: 1024px){
+
+    thead tr:not(:first-child) {
+      display: none;
+    }
+  }
+
