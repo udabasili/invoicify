@@ -1,0 +1,16 @@
+{
+    "ignore": [
+      ".git",
+      "test",
+      "node_modules/**/node_modules"
+    ],
+    "exec": "ts-node -r tsconfig-paths/register ./src/app.ts",
+    "watch": [
+      "src",
+      ".env"
+    ],
+    "env": {
+      "NODE_ENV": "development"
+    },
+    "ext": "ts,js, json"
+}
