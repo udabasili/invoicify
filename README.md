@@ -1,6 +1,6 @@
 # Invoicify
 
-Invoicify is  a sample CRMS for web developers. It can used to handle invoices, project mamangement amongst other things
+Invoicify is a sample CRMS for web developers. It can be used to handle invoices, project management amongst other things
 
 ## Features
 
@@ -17,8 +17,8 @@ Devine Store uses several open-source projects to work properly:
 - [Tailwind CSS] - A utility-first CSS framework
 - [styled-component] - Component level styling
 - [Express] -  A minimal and flexible Node.js web application framework
-- [Sequelize] - A promise-based Node.js ORM 
-- [Postgres] - A free and open-source relational database management system 
+- [Sequelize] - A promise-based Node.js ORM
+- [Postgres] - A free and open-source relational database management system
 
 ## Installation
 
