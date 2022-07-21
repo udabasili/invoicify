@@ -1,6 +1,6 @@
 # Invoicify
 
-Invoicify is a sample CRMS for web developers. It can be used to handle invoices, project management amongst other things
+Invoicify is a sample CRMS for web developers. It can be used to handle invoices, and project management amongst other things
 
 ## Features
 
